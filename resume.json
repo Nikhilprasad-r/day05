@@ -1,0 +1,43 @@
+{
+  "basics": {
+    "name": "Nikhil Prasad",
+    "email": "nikhilprasadinbox@gmail.com",
+    "phone": 9488688008,
+    "degree": "B.E"
+  },
+
+  "location": {
+    "address": "N0.63 Bliss Homes",
+    "postalCode": 635109,
+    "city": "Hosur",
+    "state": "Tamilnadu",
+    "country": "India"
+  },
+  "profiles": {
+    "website": "http://nikhilprasad.info/",
+    "github": "https://github.com/Nikhilprasad-r"
+  },
+
+  "education": {
+    "institution": "Adhiyamaan College Of Engineering",
+    "department": "Computer science & Engineering",
+    "studyType": "fulltime",
+    "Completion": 2022,
+    "gpa": 6.1
+  },
+  "skills": {
+    "name": "python,javascript,HTML,CSS,React js,Node Js,Mongo DB,Express,SQL,Bootstrap",
+    "level": "Intermediate",
+    "project": "Tesla like webpage"
+  },
+  "languages": {
+    "english": "Write,Read,Talk",
+    "tamil": "Write,Read,Talk",
+    "hindi": "Write,Read,Talk",
+    "telugu": "Talk",
+    "kannada": "Talk"
+  },
+  "interests": {
+    "space science": ""
+  }
+}
